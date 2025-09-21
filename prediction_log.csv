@@ -1,0 +1,11 @@
+timestamp,filename,box_x,box_y,box_w,box_h,predicted_skin_condition,skin_confidence,predicted_age
+2025-09-18 17:26:26,Arpit.jpg,616,921,1639,1639,clear face,94.04%,18
+2025-09-18 17:38:52,Arpit.jpg,616,921,1639,1639,clear face,94.04%,18
+2025-09-18 17:39:25,Arpit.jpg,616,921,1639,1639,clear face,94.04%,18
+2025-09-18 17:40:57,Arpit.jpg,616,921,1639,1639,clear face,94.04%,18
+2025-09-18 17:43:00,WhatsApp Image 2025-09-18 at 17.41.55_fa843273.jpg,306,801,65,65,darkspots,99.83%,9
+2025-09-18 17:43:01,WhatsApp Image 2025-09-18 at 17.41.55_fa843273.jpg,678,581,138,138,clear face,73.53%,30
+2025-09-18 17:43:01,WhatsApp Image 2025-09-18 at 17.41.55_fa843273.jpg,493,154,68,68,puffy eyes,58.53%,9
+2025-09-19 16:42:07,result_Arpit.jpg,630,933,1611,1611,clear face,90.60%,18
+2025-09-19 17:10:43,Arpit.jpg,616,921,1639,1639,clear face,94.04%,17
+2025-09-19 17:11:08,Arpit.jpg,616,921,1639,1639,clear face,94.04%,17
