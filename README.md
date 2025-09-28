@@ -4,12 +4,12 @@ ________________________________________
 📌 Project Overview
 DermalScan is a deep learning-based system designed to detect and classify facial aging signs (wrinkles, dark spots, puffy eyes) and predict a person's apparent age  from an image.
 The project leverages two distinct models:
-•	ResNet50V2→ Classifier for identifying signs of aging.
-•	MobileNetV2 → Performs dual task of age regression.
+•	ResNet50V2→ Classifier for identifying signs of aging. 
+•	MobileNetV2 → Performs dual task of age regression. 
 The backend integrates:
-•	Face detection (Haar Cascades)
-•	Image preprocessing
-•	Model inference
+•	Face detection (Haar Cascades) 
+•	Image preprocessing 
+•	Model inference 
 A user-friendly Streamlit web application serves as the frontend, allowing users to upload images and view annotated results.
 ________________________________________
 ✨ Features
@@ -123,7 +123,7 @@ ________________________________________
 DermalScan provides an end-to-end ML pipeline for:
 •	Detecting facial regions
 •	Classifying aging signs
-•	Predicting age f
+•	Predicting age 
 •	Annotating and exporting results
 The combination of ResNet50V2 + MobileNetV2  makes DermalScan a robust tool for dermatological and demographic analysis.
 
