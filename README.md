@@ -1,5 +1,5 @@
 DermalScan: AI-Powered Facial Skin Aging Classifier and Age Predictor
-This guide provides a comprehensive overview of the DermalScan project, covering its purpose, features, and instructions for both end-users and developers.
+This guide provides a comprehensive overview of the DermalScan project, covering its purpose, features and instructions for both end-users and developers.
 ________________________________________
 📌 Project Overview
 DermalScan is a deep learning-based system designed to detect and classify facial aging signs (wrinkles, dark spots, puffy eyes) and predict a person's apparent age  from an image.
